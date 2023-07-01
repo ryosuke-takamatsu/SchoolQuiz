@@ -15,7 +15,7 @@
 		55A4C5742A2C5FEE00F81766 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55A4C5722A2C5FEE00F81766 /* LaunchScreen.storyboard */; };
 		55A4C57C2A32DFF800F81766 /* SchoolQuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55A4C57B2A32DFF800F81766 /* SchoolQuizViewController.swift */; };
 		55A4C57E2A33221D00F81766 /* SchoolScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55A4C57D2A33221D00F81766 /* SchoolScoreViewController.swift */; };
-		55A4C5802A333DB700F81766 /* ScoolQuiz.csv in Resources */ = {isa = PBXBuildFile; fileRef = 55A4C57F2A333DB700F81766 /* ScoolQuiz.csv */; };
+		55A4C5802A333DB700F81766 /* SchoolQuiz.csv in Resources */ = {isa = PBXBuildFile; fileRef = 55A4C57F2A333DB700F81766 /* SchoolQuiz.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		55A4C5752A2C5FEE00F81766 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55A4C57B2A32DFF800F81766 /* SchoolQuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolQuizViewController.swift; sourceTree = "<group>"; };
 		55A4C57D2A33221D00F81766 /* SchoolScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolScoreViewController.swift; sourceTree = "<group>"; };
-		55A4C57F2A333DB700F81766 /* ScoolQuiz.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = ScoolQuiz.csv; sourceTree = "<group>"; };
+		55A4C57F2A333DB700F81766 /* SchoolQuiz.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = SchoolQuiz.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 				55A4C57B2A32DFF800F81766 /* SchoolQuizViewController.swift */,
 				55A4C5702A2C5FEE00F81766 /* Assets.xcassets */,
 				55A4C5722A2C5FEE00F81766 /* LaunchScreen.storyboard */,
-				55A4C57F2A333DB700F81766 /* ScoolQuiz.csv */,
+				55A4C57F2A333DB700F81766 /* SchoolQuiz.csv */,
 				55A4C5752A2C5FEE00F81766 /* Info.plist */,
 			);
 			path = SchoolQuiz;
@@ -134,7 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55A4C5802A333DB700F81766 /* ScoolQuiz.csv in Resources */,
+				55A4C5802A333DB700F81766 /* SchoolQuiz.csv in Resources */,
 				55A4C5742A2C5FEE00F81766 /* LaunchScreen.storyboard in Resources */,
 				55A4C5712A2C5FEE00F81766 /* Assets.xcassets in Resources */,
 				55A4C56F2A2C5FED00F81766 /* Main.storyboard in Resources */,

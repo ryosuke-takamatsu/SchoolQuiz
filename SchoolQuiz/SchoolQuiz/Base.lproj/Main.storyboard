@@ -11,7 +11,7 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="SchoolQuiz" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="SchoolQuiz" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -106,21 +106,12 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="QuizLabel" destination="aZh-yg-vgx" id="aId-bE-t8F"/>
                         <outlet property="SchoolQuizButton1" destination="EoI-l2-jH3" id="Lmo-e8-tYE"/>
                         <outlet property="SchoolQuizButton2" destination="JEr-ww-PEn" id="wLW-EK-jIm"/>
                         <outlet property="SchoolQuizButton3" destination="b7t-OL-O0a" id="ylv-rH-om7"/>
                         <outlet property="SchoolQuizButton4" destination="sJ7-vU-tqT" id="xip-fI-oVC"/>
                         <outlet property="SchoolQuizLabel" destination="aZh-yg-vgx" id="FvD-Mg-pEY"/>
                         <outlet property="SchoolQuizTextView" destination="Q7U-ql-5jA" id="3dx-lR-nkc"/>
-                        <outlet property="ScoolQuizButton1" destination="EoI-l2-jH3" id="gqb-4K-wgs"/>
-                        <outlet property="ScoolQuizButton2" destination="JEr-ww-PEn" id="mYg-ts-McQ"/>
-                        <outlet property="ScoolQuizButton3" destination="b7t-OL-O0a" id="fTW-fz-Rrk"/>
-                        <outlet property="ScoolQuizButton4" destination="sJ7-vU-tqT" id="0PB-DT-jDq"/>
-                        <outlet property="ScoolQuizLabel" destination="aZh-yg-vgx" id="eOE-ps-y3m"/>
-                        <outlet property="ScoolQuizTextView" destination="Q7U-ql-5jA" id="y9p-vZ-TYD"/>
-                        <outlet property="ShcoolQuizButton1" destination="EoI-l2-jH3" id="YZZ-dn-ujk"/>
-                        <outlet property="ShcoolQuizLabel" destination="aZh-yg-vgx" id="Mc2-Ll-LTZ"/>
                         <segue destination="SfG-80-uqH" kind="presentation" identifier="toScoreVC" id="Y6V-vd-bNT"/>
                     </connections>
                 </viewController>
