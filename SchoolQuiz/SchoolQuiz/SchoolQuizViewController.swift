@@ -41,7 +41,7 @@ class SchoolQuizViewController: UIViewController {
         if sender.tag == Int(SchoolQuizArray[1]){
             print("正解")
         }else{
-            print("不正解")
+            print("不正解!!!!")
         }
         nextQuiz()
     }
